@@ -10,4 +10,4 @@
   digit = n % 10
   rev = rev * 10 + digit
   n = n / 10
-6.
+6.Sum of Digits
